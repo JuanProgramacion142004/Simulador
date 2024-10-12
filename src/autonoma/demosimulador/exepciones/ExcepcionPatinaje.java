@@ -4,7 +4,7 @@
  */
 package autonoma.demosimulador.exepciones;
 
-public class ExcepcionPatinaje extends Exception {
+public class ExcepcionPatinaje extends RuntimeException {
     public ExcepcionPatinaje(String mensaje) {
         super(mensaje);
     }

@@ -6,10 +6,9 @@ package autonoma.demosimulador.models;
 
 import autonoma.demosimulador.exepciones.*;
 //
-///**
-// *
-// * @author theBL
-// */
+/*
+ * autor : Juan David Arcila Restrepo
+ */
 //public class Motor {
 //
 ////    atributos
@@ -65,6 +64,10 @@ import autonoma.demosimulador.exepciones.*;
 //        }
 //    }
 //}
+
+/*
+ * autor : Juan David Arcila Restrepo
+ */
 public class Motor {
     private String cilindraje;
     private double velocidadMaxima;

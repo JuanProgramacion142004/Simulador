@@ -5,7 +5,7 @@
 package autonoma.demosimulador.exepciones;
 
 
-public class ExcepcionVehiculoApagado extends Exception {
+public class ExcepcionVehiculoApagado extends RuntimeException {
     public ExcepcionVehiculoApagado(String mensaje) {
         super(mensaje);
     }

@@ -62,6 +62,9 @@ import autonoma.demosimulador.exepciones.*;
 //        this.apagar();
 //    }
 //}
+/*
+ * autor : Juan David Arcila Restrepo
+ */
 public class Vehiculo {
     private boolean encendido;
     private double velocidad;

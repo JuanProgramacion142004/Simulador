@@ -44,6 +44,10 @@ import autonoma.demosimulador.exepciones.*;
 //
 //    }
 //}
+
+/*
+ * autor : Juan David Arcila Restrepo
+ */
 public class Simulador {
     private Vehiculo vehiculo;
 

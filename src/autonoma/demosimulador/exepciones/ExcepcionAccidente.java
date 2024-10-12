@@ -4,7 +4,7 @@
  */
 package autonoma.demosimulador.exepciones;
 
-public class ExcepcionAccidente extends Exception {
+public class ExcepcionAccidente extends RuntimeException {
     public ExcepcionAccidente(String mensaje) {
         super(mensaje);
     }

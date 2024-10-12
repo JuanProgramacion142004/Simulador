@@ -2,6 +2,9 @@ package autonoma.demosimulador.models;
 
 import autonoma.demosimulador.exepciones.*;
 
+/*
+ * autor : Juan David Arcila Restrepo
+ */
 
 public class Llantas {
     private String tipo;
